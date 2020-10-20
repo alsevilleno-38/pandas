@@ -1,0 +1,8 @@
+processingtime,waitingtimeinqueue,typeoftransaction,totaltimeinsystem,teller
+8.4,48,deposit,56.4,Jo
+4.7,0,withdrawal,4.7,Ryan
+5.9,183,deposit,188.9,Jo
+8.1,120,deposit,128.1,Jo
+16.7,242,withdrawal,258.7,Ryan
+12.3,38,billspayment,50.3,Em
+8.8,25,loanapplication,33.8,Paul
